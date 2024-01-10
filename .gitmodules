@@ -1,0 +1,3 @@
+[submodule "aimet"]
+	path = aimet
+	url = https://github.com/quic/aimet.git
